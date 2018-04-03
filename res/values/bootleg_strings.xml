@@ -47,8 +47,7 @@
     <string name="bootleggers_build_date">Build date</string>
 
     <!-- About phone screen, device maintainer name -->
-    <string name="maintainer">The one who made this (Maintainer)</string>
-    <string name="maintainer_name">A fucking buildbot</string>
+    <string name="maintainer">メンテナ `Mentena</string>
 
     <!-- Build types, now with translations -->
     <string name="bootleg_type_official">Official</string>
