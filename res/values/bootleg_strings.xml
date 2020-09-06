@@ -47,12 +47,12 @@
     <string name="bootleggers_build_date">Build date</string>
 
     <!-- About phone screen, device maintainer name -->
-    <string name="maintainer">Who to blame (Maintainer)</string>
-    <string name="maintainer_name">Fucking Weebs</string>
+    <string name="maintainer">The one who made this (Maintainer)</string>
+    <string name="maintainer_name">A fucking buildbot</string>
 
     <!-- Build types, now with translations -->
     <string name="bootleg_type_official">Official</string>
-    <string name="bootleg_type_unofficial">Unofficial</string>
+    <string name="bootleg_type_unofficial">Hensimp</string>
     <string name="bootleg_type_unknown">Unsupported. ¯\\_(ツ)_/¯</string>
     <string name="bootleggers_releasetype_skeleton">%s (%s)</string>
 
