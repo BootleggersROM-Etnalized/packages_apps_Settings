@@ -58,12 +58,13 @@
         settings:enableCopying="true"
         settings:controller="com.android.settings.deviceinfo.firmwareversion.ROMBuildTypePreferenceController"/>
 
-    <!-- ROM Maintainer, in case of Shsihufied Builds-->
+    <!-- ROM Maintainer, in case of Etnalized Builds-->
     <Preference
-        android:key="who_to_blame"
-        android:title="メンテナ `Mentena"
-        android:summary="@string/maintainer_name"
-        settings:enableCopying="true" />
+        android:key="maintainer"
+        android:title="@string/maintainer"
+        android:summary="@string/summary_placeholder"
+        settings:enableCopying="true"
+        settings:controller="com.android.settings.deviceinfo.firmwareversion.BootlegMaintainerPreferenceController"/>
 
     <!-- Android version -->
     <Preference
